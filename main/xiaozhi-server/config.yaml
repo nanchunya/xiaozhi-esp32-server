@@ -419,11 +419,11 @@ TTS:
     # 普通音色在这里开通：https://console.volcengine.com/speech/service/8
     # 湾湾小何音色在这里开通：https://console.volcengine.com/speech/service/10007，开通后将下面的voice设置成zh_female_wanwanxiaohe_moon_bigtts
     api_url: https://openspeech.bytedance.com/api/v1/tts
-    voice: BV001_streaming
+    voice: zh_female_wanwanxiaohe_moon_bigtts
     output_dir: tmp/
     authorization: "Bearer;"
-    appid: 你的火山引擎语音合成服务appid
-    access_token: 你的火山引擎语音合成服务access_token
+    appid: 9285143617
+    access_token: aCcmvujysYygKP0V5QC2WOT0glTb89fl
     cluster: volcano_tts
     speed_ratio: 1.0
     volume_ratio: 1.0
